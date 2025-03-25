@@ -1,2 +1,1 @@
-# 23f3000472-cs1102-linux-lab
-linux lab repo
+# CS1102 Linux Lab
